@@ -1,6 +1,7 @@
 # Проект "ИИ-ассистент для компании ООО СХП Дары Малиновки"
 ссылка на проект @strategsuper_bot
 
+![Снимок экрана (1)](https://github.com/user-attachments/assets/1edd2901-73ce-477f-b5ec-cc4e90d33d57)
 
 
 ## Описание проекта
